@@ -21,7 +21,7 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 <p align="center">
   <!-- <img width="1000" src="https://raw.githubusercontent.com/dhirajkrjp/dhirajkrjp/output/github-contribution-grid-snake-dark.svg" alt="snake"/> -->
 </p>
-## Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
